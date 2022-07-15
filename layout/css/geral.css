@@ -12,7 +12,7 @@ h2 { float:left; font: 14px Arial; font-weight: bold; width: 100%; margin: 20px 
 .menu li { list-style: none; display: inline; }
 .menu li a { font: 14px Arial; color:#cecece; text-decoration: none; margin: 0 10px 0 0; }
 
-#menu-esquerdo { float:left; width: 160px; margin: 10px 0 0 5px; }
+#menu-esquerdo { float:left; width: 20px; margin: 10px 0 0 5px; }
 #menu-esquerdo ul { list-style: none; margin: 6px 0; }
 #menu-esquerdo ul li a { color: #2c2c2c; }
 
